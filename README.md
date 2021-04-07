@@ -20,7 +20,7 @@ uvicorn main:app --reload
 ```
 Additionally, you can also run the test with:
 ```bash
-python cipher/test_cipher.py
+python cipher/test_polycipher.py
 python cipher/test_enigma.py
 ```
 
